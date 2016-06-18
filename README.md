@@ -1,2 +1,3 @@
 # hello-world
-Learning GitHub
+
+Getting the gist of the workflow here at GitHub!
