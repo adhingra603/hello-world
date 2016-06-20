@@ -1,4 +1,5 @@
 #!/bin/bash
+# New branch
 
 # Script to fetch logs from a THinstance
 # Author: Ryan Bradley - DevOps EAG
